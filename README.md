@@ -132,7 +132,3 @@ python3 scripts/validate_report.py /absolute/path/to/report.html
 - Codex 或支持 Agent Skills 的兼容客户端；
 - Python 3.9+（仅运行 HTML 校验脚本时需要）；
 - 实际分析可能还需要浏览器、图片查看器或源码访问能力，取决于证据类型。
-
-## License
-
-[MIT](LICENSE)
